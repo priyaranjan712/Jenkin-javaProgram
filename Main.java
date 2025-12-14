@@ -7,5 +7,8 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Hello Gudu");
         System.out.println("Added One More File");
+
+        Student student=new Student();
+        student.sayHello();
     }
 }
